@@ -1,5 +1,3 @@
-# SolveSoduku
-
 Feed the main with soduku grid like following, soduku ender will solve the soduku for you.
         int[] soduku = {
                 5004,
